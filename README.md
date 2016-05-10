@@ -34,3 +34,7 @@
 * [Arduino](https://www.arduino.cc/)
 * AutoDesk [123D Circuits](https://123d.circuits.io/)! <!-- THIS IS HOT!!
 * [MORE TO COME!](http://www.am.ics.keio.ac.jp/~keimiya/researchnote/wp-content/uploads/2013/07/Keepcalmwritecode_1920_10801.png)
+
+#### USEFUL LINKS!
+
+* 
