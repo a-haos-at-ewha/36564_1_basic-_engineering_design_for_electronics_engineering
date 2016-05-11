@@ -13,7 +13,7 @@
 #### WHERE!
 
 * [Ewha Womans](http://www.ewha.ac.kr/)
-* Republic of Korea!
+* [Seoul](https://gist.github.com/anonymous/a43f407eca47d0a6c292a6512bfdf1a8), Republic of Korea!
 
 #### WHEN!
 
