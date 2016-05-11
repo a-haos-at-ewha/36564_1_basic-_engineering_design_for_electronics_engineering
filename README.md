@@ -8,6 +8,7 @@
 
 * The repository for Ewha Womans' Professor Jewon Kang's Basic Engineeirng Design for Electronics Engineering.
 * A lerning experience!
+* A midterm [presentation!](http://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering)
 
 #### WHERE!
 
