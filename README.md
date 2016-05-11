@@ -14,6 +14,7 @@
 
 * [Ewha Womans](http://www.ewha.ac.kr/)
 * [Seoul](https://gist.github.com/anonymous/a43f407eca47d0a6c292a6512bfdf1a8), Republic of Korea!
+* *[Milwaukee](https://gist.github.com/65bda82c4b2307c5c5e8533080044d36) born and bred.*
 
 #### WHEN!
 
