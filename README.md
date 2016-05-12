@@ -2,6 +2,8 @@
 
 #### WHO!
 
+*me :*
+
 * **Ewha Womans'** [Benjamin Haos](http://koreahaos.github.io/), directed, instructed, and taught by Professor **Jewon Kang** and **TA Minjoo**!
 
 #### WHAT!
