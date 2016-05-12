@@ -1,9 +1,6 @@
 # Ewha Womans' Basic Electronics Engineering
 
-##### (36564-01)[!](https://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering/index.html)
-
-
-<p><span>Test<span><a href="https://www.google.com/" style="color:black; text-decoration: none;" target="_blank">!&iexcl;</span></span><p>
+##### (36564-01)<span><a href="https://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering/index.html" style="color:black; text-decoration: none;" target="_blank">!&iexcl;</span>
 
 #### WHO!
 
