@@ -10,11 +10,11 @@
 * *me :*
     * **Ewha Womans'** [Benjamin Haos](http://koreahaos.github.io/), directed, instructed, and taught by Professor **Jewon Kang** and **TA Minjoo**!
 
-#### WHAT!
+#### **WHAT!**
 * The repository for Ewha Womans' Professor Jewon Kang's Basic Engineeirng Design for Electronics Engineering.
 * A Learning Experience!
 
-#### WHERE!
+#### **WHERE!**
 * Work done at:
 
 * At [Ewha Womans](http://www.ewha.ac.kr/).
@@ -28,18 +28,18 @@
 * Other Useful Links!
     * Ewha [CyberCampus](http://cyber.ewha.ac.kr/course/view.php?id=35971) link. *requires login*
 
-#### WHEN!
+#### **WHEN!**
 
 * Spring 2016
 * Finishing up Undergrad work.
 
-#### WHY!
+#### **WHY!**
 
 * To Learn!
 * It's Fun!!
 * Because i Can!
 
-#### HOW!
+#### **HOW!**
 
 * [GitHub](https://github.com/KoreaHaos) <!-- Hosting this!
 * [GitLab](https://gitlab.com/u/koreahaos) <!-- The Backyard...
