@@ -37,10 +37,10 @@
 * ...
 
 #### **HOW!**
-* [GitHub](https://github.com/KoreaHaos) <!-- Hosting this!
+* [GitHub](https://github.com/KoreaHaos "Hosting This and That!")
 * [GitLab](https://gitlab.com/u/koreahaos) <!-- The Backyard...
-* [Cloud9](https://c9.io/) <!-- THIS IS SUPER HOT!!
-* [CodeBender](https://codebender.cc/home)  <!-- COULDN't LIVE WITHOUT!!
+* [Cloud9](https://c9.io/) <!-- COULDN't LIVE WITHOUT!!
+* [CodeBender](https://codebender.cc/home) <!-- THIS IS SUPER HOT!!
 * [Arduino](https://www.arduino.cc/)
 * AutoDesk [123D Circuits](https://123d.circuits.io/)! <!-- THIS IS HOT!!
 * [MORE TO COME!](http://www.am.ics.keio.ac.jp/~keimiya/researchnote/wp-content/uploads/2013/07/Keepcalmwritecode_1920_10801.png) ***As far as how i did this and what tools i used)**
