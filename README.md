@@ -6,14 +6,11 @@
 <div><p><h5>(36564-01)<a href="https://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering/index.html" target="_blank">!&iexcl;</h5></p></div>
 </html>
 
-
 #### **WHO!**
 * *me :*
-* **Ewha Womans'** [Benjamin Haos](http://koreahaos.github.io/), directed, instructed, and taught by Professor **Jewon Kang** and **TA Minjoo**!
-
+    * **Ewha Womans'** [Benjamin Haos](http://koreahaos.github.io/), directed, instructed, and taught by Professor **Jewon Kang** and **TA Minjoo**!
 
 #### WHAT!
-
 * The repository for Ewha Womans' Professor Jewon Kang's Basic Engineeirng Design for Electronics Engineering.
 * A Learning Experience!
 
