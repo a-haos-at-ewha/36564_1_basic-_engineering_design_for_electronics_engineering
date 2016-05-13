@@ -3,12 +3,12 @@
 <html>
 
 <!-- ToDo: Figure out this a bit more...-->
-<div><p><h5>(36564-01)<a href="https://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering/index.html" target="_blank">!&iexcl;</h5></p></div>
+<div><p><h5>(36564-01)<a href="https://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering/index.html" target="_blank">!&iexcl;</h5></p></a></div>
 </html>
 
 #### **WHO!**
-* *me :*
-    * **Ewha Womans'** [Benjamin Haos](http://koreahaos.github.io/), directed, instructed, and taught by Professor **Jewon Kang** and **TA Minjoo**!
+* *[me](http://www.haos.house/) :*
+    * **[Ewha](http://www.ewha.ac.kr/) Womans'** [Benjamin Haos](http://www.haos.info/), directed, instructed, and taught by Professor **Jewon Kang** and **TA Minjoo**!
 
 #### **WHAT!**
 * The repository for Ewha Womans' Professor Jewon Kang's Basic Engineeirng Design for Electronics Engineering.
@@ -21,7 +21,7 @@
     * Bit i am *[Milwaukee](https://gist.github.com/65bda82c4b2307c5c5e8533080044d36) born and bred...*
 * ***Files Located*** :
     * In your [Browser](https://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering/)!
-    * On the [interwebs](https://github.com/a-haos-at-ewha/36564_1_basic-_engineering_design_for_electronics_engineering)!
+    * On the [inter-webs](https://github.com/a-haos-at-ewha/36564_1_basic-_engineering_design_for_electronics_engineering)!
     * On your computer ```git clone https://github.com/a-haos-at-ewha/36564_1_basic-_engineering_design_for_electronics_engineering.git```
 * ***And some other Useful Links*** :
     * Ewha [CyberCampus](http://cyber.ewha.ac.kr/course/view.php?id=35971) link. *requires login*
