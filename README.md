@@ -15,15 +15,15 @@
 * A Learning Experience!
 
 #### **WHERE!**
-* Work done :
+* ***Work done*** :
     * At [Ewha Womans](http://www.ewha.ac.kr/).
     * Located in [Seoul](https://gist.github.com/anonymous/a43f407eca47d0a6c292a6512bfdf1a8), Republic of Korea!
-    * *[Milwaukee](https://gist.github.com/65bda82c4b2307c5c5e8533080044d36) born and bred.*
-* Files Located :
+    * Bit i am *[Milwaukee](https://gist.github.com/65bda82c4b2307c5c5e8533080044d36) born and bred...*
+* ***Files Located*** :
     * In your [Browser](https://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering/)!
     * On the [interwebs](https://github.com/a-haos-at-ewha/36564_1_basic-_engineering_design_for_electronics_engineering)!
     * On your computer ```git clone https://github.com/a-haos-at-ewha/36564_1_basic-_engineering_design_for_electronics_engineering.git```
-* And some other Useful Links :
+* ***And some other Useful Links*** :
     * Ewha [CyberCampus](http://cyber.ewha.ac.kr/course/view.php?id=35971) link. *requires login*
 
 #### **WHEN!**
