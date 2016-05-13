@@ -29,18 +29,15 @@
     * Ewha [CyberCampus](http://cyber.ewha.ac.kr/course/view.php?id=35971) link. *requires login*
 
 #### **WHEN!**
-
 * Spring 2016
 * Finishing up Undergrad work.
 
 #### **WHY!**
-
 * To Learn!
 * It's Fun!!
 * Because i Can!
 
 #### **HOW!**
-
 * [GitHub](https://github.com/KoreaHaos) <!-- Hosting this!
 * [GitLab](https://gitlab.com/u/koreahaos) <!-- The Backyard...
 * [Cloud9](https://c9.io/) <!-- THIS IS SUPER HOT!!
