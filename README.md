@@ -27,13 +27,14 @@
     * Ewha [CyberCampus](http://cyber.ewha.ac.kr/course/view.php?id=35971) link. *requires login*
 
 #### **WHEN!**
-* Spring 2016
-* Finishing up Undergrad work.
+* Ewha Womans' Spring 2016 Semester.
+* While Finishing Undergrad Work**(s)**.
 
 #### **WHY!**
 * To Learn!
 * It's Fun!!
-* Because i Can!
+* To make sure i can?
+* ...
 
 #### **HOW!**
 * [GitHub](https://github.com/KoreaHaos) <!-- Hosting this!
@@ -42,4 +43,4 @@
 * [CodeBender](https://codebender.cc/home)  <!-- COULDN't LIVE WITHOUT!!
 * [Arduino](https://www.arduino.cc/)
 * AutoDesk [123D Circuits](https://123d.circuits.io/)! <!-- THIS IS HOT!!
-* [MORE TO COME!](http://www.am.ics.keio.ac.jp/~keimiya/researchnote/wp-content/uploads/2013/07/Keepcalmwritecode_1920_10801.png)
+* [MORE TO COME!](http://www.am.ics.keio.ac.jp/~keimiya/researchnote/wp-content/uploads/2013/07/Keepcalmwritecode_1920_10801.png) ***As far as how i did this and what tools i used)**
