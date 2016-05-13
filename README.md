@@ -37,8 +37,8 @@
 * ...
 
 #### **HOW!**
-* [EWHA](http://www.ewha.ac.kr/mbs/ewhaen/ "Obviously at the top of the list!")!
-* **[Carroll](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiskeqn7dXMAhUh5aYKHe8jCt4QFggeMAA&url=http%3A%2F%2Fwww.carrollu.edu%2F&usg=AFQjCNGMmwKrKbIqObrm9PiyCxAKAwh1XQ&sig2=PtIKfQuF7qPqeVV56oHD0g "Boldly Stated? : Never Second Place!!")!!!**
+* [EWHA](http://www.ewha.ac.kr/mbs/ewhaen/ "Obviously at the top of the list!") !
+* **[Carroll](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiskeqn7dXMAhUh5aYKHe8jCt4QFggeMAA&url=http%3A%2F%2Fwww.carrollu.edu%2F&usg=AFQjCNGMmwKrKbIqObrm9PiyCxAKAwh1XQ&sig2=PtIKfQuF7qPqeVV56oHD0g "Boldly Stated? : Never Second Place!!") !!!**
 * [GitHub](https://github.com/KoreaHaos "Hosting This and That!")
 * [GitLab](https://gitlab.com/u/koreahaos "The Backyard...")
 * [CodeBender](https://codebender.cc/home "THIS IS SUPER HOT!!")
