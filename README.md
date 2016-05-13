@@ -15,7 +15,7 @@
 #### WHAT!
 
 * The repository for Ewha Womans' Professor Jewon Kang's Basic Engineeirng Design for Electronics Engineering.
-* A learning experience!
+* A Learning Experience!
 
 #### WHERE!
 
