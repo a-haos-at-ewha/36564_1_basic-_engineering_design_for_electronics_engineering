@@ -1,7 +1,5 @@
 # Ewha Womans' Basic Electronics Engineering!
-
 <html>
-
 <!-- ToDo: Figure out this a bit more...-->
 <div><p><h5>(36564-01)<a href="https://a-haos-at-ewha.github.io/36564_1_basic-_engineering_design_for_electronics_engineering/index.html" target="_blank">!&iexcl;</h5></p></a></div>
 </html>
