@@ -2,7 +2,10 @@
 
 Done:
 
-Setup Progress Report Store.
+Setup Progress Report Store Haos.
 
 ToDo:
 
+Deliver reports.
+
+Done:
