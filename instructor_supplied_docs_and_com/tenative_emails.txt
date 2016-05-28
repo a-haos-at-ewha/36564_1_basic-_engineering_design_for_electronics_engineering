@@ -1,0 +1,73 @@
+Dear Benjamin,
+Thank you letting me know the status beforehand. Keeping yourself busy looks nice to me. It is also highly appreciated if one tries to stretch the limit
+farther as she/he can do.
+But also, time & money is limited, and we always working in the constraints. You can redefine the scope if it is too much burden to you. The report is
+also a chance, given to you, and the choice is up to you.
+Have a nice weekend, and let us see on Monday.
+Best,
+Jewon
+
+
+5/21/16
+
+{Notice : this is a rough draft of comm. It does not include even a basic re-read because i am two trains behind where i need to be! [ read at your own risk...}]
+Pro. Dr. Jewon Kang,
+
+Before i get to the point, i hope you will please excuse a slight digression?
+
+My salutation, i love that word as it sounds so much nicer then 'greeting,' is given to you in respect and as a way to show my fondness for you. If you were to speak of it to my favored instructor communiques of late, they would all tell you that when Ben is enjoying your tutledge, he tends to get verbose and when he finds you especially intersting or respectable, his salutaitons/greetings tend to become a bit multi-faceted.
+
+I will not line-by-line-edit/comment on your entire last message but i would like to point out one small bit as i think you might find my thoughts on it of interest. Your statement, 'But also, time & money is limited' strikes me as a repeat of my own words written earlier. Typically, i would take this as you were mocking me and become concerned with what your true meaning was. To use a cliche i am sure you are familiar with, i would try to 'read between the lines.'
+
+That said, i am guessing that you did not use my words in a mocking tone. I assume this for several reasons. These reasons are too many to fully itterate, but the most important one is this; My proverbial 'gut-feeling' tells me that you have a very strong interest in helping your students and you would never mock them. Based on our past email conversations, there is every reason for me to believe this. You have been very tollerant of my poorly contained temper and have gone above and beyond in accomadating me and my goals. Of course i sapose you could be a master of deception and harbor evil intents, and if this were the case, i would be amazed at your skill and somewhat afraid of what might be in store! But assuming my 'gut-instincts' are working at their usual capacity, i think in fact you are of type of person rarely encoutered. Although i've been told it is rude to 'type' people, i like to think you would be happy to hear that i see you as a person who prioritizes helping others better themselves and puts this noble goal above there own personal gain.
+
+So, the point i am trying to get accross, the statement 'time & money is limited' does not very well work in that context because in this situation, i am the one spending time and money and you saying it implies that i am wasting your time and money. Again, i sapuse you could be trying to tell me something about how i am wasting your time and you have better things to do, but it still wouldn't make sense because if that were how you felt, you would eithier ignore me or blast me. (By 'blast me,' i mean you'd respond in short, terse, prose that directed me too do a very specific something(s); ignore plesenteries; and offer little critique and/or analysis. ( Please know that i very much apreciate your critique, you are a master of the art where so many are just experts at critising. ( That is a very uncommon skill and one i respect greatly and through emulation of your example, i hope to someday master myself. ) ) ) (Sorry about the parenthesis but sometimes it seems the best way to express myself and after i learned functional programming syntax, it seemed to affect my writting.)
+
+Ok, i am going to now get to fixing up my midterm report using your advice and once i am done with that, i will finish this unexpectedly long message to you.
+
+<Paused for focus-shift to work at hand. [5/21/16 time : unknown...]>
+
+<Un- Paused for status report upon shift to impending deadlines. [5/21/16 5:23(am)]
+
+All-right, i've moddified my midterm report as much as time allowed. I should add that i did the proverial 'all-nighter' that uni students are known for. Luckily i have several genetic factors coupled with a fair amount of enviornmental influences that make this type of radiculousness relativly productive...
+
+Mods completed:
+
+I have kept the general descritive the same but have begun to remove the sense of excuss making. I am working to this by spinning the narative into the silver linings i've found and also by wording event's descriptions with wordings describing my current emotion on situation vs. previous wording that was much more influenced by the state the Haos was in while producing the as usual, aptly named 'rough-draft.' (The idea of variable/method/function/object/interface/etc naming being represnetationally accuarate has been very much taken to heart and extended to file-naming and even communications.)
+
+I need to add in the list of 'accomplishments' or 'implementeds' but if i am to complete my intended goals, i need to get on the train i subscribe to riding for my earliest arrivals. (Unless absolutly required, which has pretty much been close to never, i always get on the second train after the first so i can avoid the inevitble crowds that the first trains tends to have. ( if you have any pull with our subway's people, i've got several recomendations that to me seem like they would increase efficeny. (sadly, i think the way the infrastructure is layed out, they are not optimal but... (have you ever been to NYC?))))
+
+So here's my concern i am hoping you have a second to address. 
+
+(BTW (by the way) (i only add the explanations because i am concerned a part of my comm. might be regional specific), i very much apreciate your amazingly fast responses to my emails.
+
+I do not have a 'local machine' per se.
+
+There are multiple reasons for this and i am actually in the process of creating document that i believe will argue my managment of encountered problems very effectivly. To give you a short, and fully not posited to be a complete reasoning, i have concerns of identiy security coupled to home/school commuting, licensing concerns, portability of work, and now that i am in the lovely land of Korea, (no cynism, i love it here) i've got machines that do not even speak my langauge.
+
+Thus, i do not keep much of anything on my home machine. Because i will not insert a USB into my home computer if it has been in another non-known entitiy, using portable drives is not an option and never has been unless i am at a breaking-point. I have taken this concern that i have found very few other students have and i have turned it into a learning experience. I have portablized apps not typically portable, Eclipse being my biggest accomplishement but there are plenty more ( i also pcked up a bit of skill in cracking copy-protection schemes while working out this problem...) I have also spent consierable time figuring out virtulization.
+
+Relavent to the topic at hand, i have been utlizng several online tools for most of my work. Online MS pretty much is junk. I expect it to get better as my friends at MicroSoft have told me it is high-priority but still in the proverbial pipe. So somehow i have missplaced the document i created for you and am working off the PDF i uploaded. This is in large part because i did not expect to be re-writing it but now i see another fault in my record keeping scheme...
+
+So I have all this document worked out online. I wrote it in HTML because it is easier for me that way to keep it persitant and eventually share it. I would merge my work into the public branch and share the URL with you, but then a fair bit of our comm would go public and i am not sure i am comfortable with that and more important, i expect you would not want me publicly diseminating private emails between us.
+
+Typically, this would be handled by me giving you rights on a private repo but i am not sure where you are at with the whole git bit. Another option would be for me to share a VM with you although i think this idea might be a bit less 'accedmic.'
+
+I will download the content of the public VM i am hesitnetly willing to push to a public repo. If you share with me your GitLab account name, i'll give your rights on the private repo i have. (this is the best option if you want complete percepetion and the ultimate in effiecent advising.
+
+I have no interest in trying to convert my work into anthing beyond a zip file that will be a file structure of what i post publicly or a colabrative private repository that you will be able to make local as you please.
+
+If Ewha is isistant on me delivering a legacy type document, and they are threatening my grade over it, well then, my time trumps my grade.
+
+Incendently, i will be very busy up to and untill after i see you on Monday and will have no more time to address this concern untill after that. (Excpeting for sharing a VM or giving you rights on a repo at GitLab ( i will not push my work to the public site until i've gotten some sort of written document that states you desire me to do that and release me from any liabilty for what might end up in the public's eye.))
+
+Sorry.
+
+As always,
+
+yours,
+
+Haos
+
+
+
